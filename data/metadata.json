@@ -1,0 +1,20 @@
+{
+  "forecast_horizon_weeks": 13,
+  "new_market": "Jaipur_NewCity",
+  "markets": [
+    "Delhi",
+    "Mumbai",
+    "Bengaluru",
+    "Kolkata",
+    "Hyderabad",
+    "Jaipur_NewCity"
+  ],
+  "skus": [
+    "S001",
+    "S002",
+    "S003",
+    "S004",
+    "S005",
+    "S006"
+  ]
+}
